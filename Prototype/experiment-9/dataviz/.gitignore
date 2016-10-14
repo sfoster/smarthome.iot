@@ -1,8 +1,0 @@
-*.pyc
-*.swp
-.DS_Store
-build
-.idea/*
-*.csv
-lookup.json
-node_modules
